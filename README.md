@@ -1,6 +1,6 @@
 [![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-English | [Tower Game, By Gputam](./README.zh-CN.md)
+English | [Tower Game, By Goutam](./README.zh-CN.md)
 
 <h1 align="center">Tower Building Game</h1>
 <p align="center"><img src="https://o2qq673j2.qnssl.com/tower-loading.gif"/></p>
