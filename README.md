@@ -37,7 +37,7 @@ rewarded with 50 points instead. Consecutive Perfects awards additional 25 point
 
 ```
 git clone https://github.com/CyberExpert0101/towergame.git
-cd tower_game
+cd towergame
 npm install
 npm start
 ```
