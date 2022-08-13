@@ -9,7 +9,7 @@ English | [Tower Game, By Goutam](./README.zh-CN.md)
 
 ## Demo
 <p align="center"><img src="https://user-images.githubusercontent.com/17680888/47480922-93a20c00-d864-11e8-8f7c-6d1d60184730.gif"/></p>
-<h2 align="center"><a href="https://iamkun.github.io/tower_game">Link to online Demo (Demo Link)</a></h2>
+<h2 align="center"><a href="https://CyberExpert0101.github.io/towergame">Link to online Demo (Demo Link)</a></h2>
 <h4 align="center">Mobile Devices can scan following QR code:</h4>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/17680888/47480646-abc55b80-d863-11e8-9337-4ea768ebe55d.png" />
@@ -36,7 +36,7 @@ rewarded with 50 points instead. Consecutive Perfects awards additional 25 point
 ## Customizing the game rule
 
 ```
-git clone https://github.com/iamkun/tower_game.git
+git clone https://github.com/CyberExpert0101/towergame.git
 cd tower_game
 npm install
 npm start
